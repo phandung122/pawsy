@@ -1,0 +1,269 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unleash True Freedom with our 2-in-1 Harness and Retractable Leash",
+            "heading_size": "h1"
+          }
+        },
+        "4c874137-c3a6-46cb-9f8d-8a9940b48c24": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "fd3def5b-e218-4903-8a33-76e116b73a65": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Order now",
+            "button_link_1": "shopify:\/\/collections\/pawsy-hybrid-harness™-with-retractable-dog-lead",
+            "button_style_secondary_1": false,
+            "button_label_2": "Find Fit",
+            "button_link_2": "shopify:\/\/collections\/pets",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "4c874137-c3a6-46cb-9f8d-8a9940b48c24",
+        "fd3def5b-e218-4903-8a33-76e116b73a65"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-08-21T103957.396.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How it works",
+            "heading_size": "h1"
+          }
+        },
+        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-0",
+        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "cd32f808-502c-4c9d-8227-9814c4553c7a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-07-26T121124.182.png",
+            "title": "1. Choose your dog collar",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d1e08acb-a97a-468d-93fc-5a16e02c09d7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/13.png",
+            "title": "2. Add name & phone number",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/16.png",
+            "title": "3. Engraved & delivered in 48hrs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-06-03T001055.288.png",
+            "title": "4. Wear & Enjoy",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-1",
+        "d1e08acb-a97a-468d-93fc-5a16e02c09d7",
+        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-0",
+        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 36
+      }
+    },
+    "fc8fc238-f54d-4fe0-ba14-034fb10d86dc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Personalised Dog Collars",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "personalised-dog-collars",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "67afb9be-2e7e-420c-bf43-1e3a43dea1a0": {
+      "type": "multirow",
+      "blocks": {
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-26_115308.png",
+            "caption": "For Pets",
+            "heading": "The perfect gift for pets",
+            "text": "<p>From personalised engraved leather collars to feeding bowls, our collection of products are meticulously crafted and beautifully designed.<\/p>",
+            "button_label": "Browse Gifts for Pets",
+            "button_link": "shopify:\/\/collections\/pets"
+          }
+        },
+        "ca5185e7-3660-48da-a98a-6768ac911ed0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/512PQo-Y0rL._AC_UF894_1000_QL80.jpg",
+            "caption": "Features",
+            "heading": "Golden quick release buckle",
+            "text": "<p>An excellent choice for leather dog collars due to their blend of functionality, style, and durability. Easily clip them on and off.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-1": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-06-04T103849.879.png",
+            "caption": "For People",
+            "heading": "The perfect gift for pet lovers",
+            "text": "<p>Our artists will design a unique illustration of your pet. It's as easy as uploading a couple photos of your pooch.<\/p>",
+            "button_label": "Browse Gifts for People",
+            "button_link": "shopify:\/\/collections\/people"
+          }
+        },
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-0": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mockup-of-a-man-holding-a-box-with-wrapping-paper-and-a-sticker-m31348_1.png",
+            "caption": "",
+            "heading": "Sustainable Gift Packaging",
+            "text": "<p>We ensure that your gifts are beautifully presented while minimising our impact on the environment. <\/p>",
+            "button_label": "Learn more",
+            "button_link": "#"
+          }
+        },
+        "0f170528-4ab6-44b6-8245-856989e7856b": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/il_1080xN.2541522800_ixdr.webp",
+            "caption": "Features",
+            "heading": "100% genuine leather",
+            "text": "<p>Crafted from 100% genuine cowhide leather. These collars are not only environmentally friendly but also ensure maximum comfort for your furry companion. Say goodbye to irritation and discomfort, as our premium leather collars are designed with your dog's well-being in mind.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-2",
+        "ca5185e7-3660-48da-a98a-6768ac911ed0",
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-1",
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-0",
+        "0f170528-4ab6-44b6-8245-856989e7856b"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7",
+    "cd32f808-502c-4c9d-8227-9814c4553c7a",
+    "fc8fc238-f54d-4fe0-ba14-034fb10d86dc",
+    "67afb9be-2e7e-420c-bf43-1e3a43dea1a0"
+  ]
+}
