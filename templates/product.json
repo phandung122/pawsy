@@ -15,6 +15,13 @@
           "type": "title",
           "settings": {}
         },
+        "b1b33cdb-47a8-46d5-9567-246fb44b910f": {
+          "type": "popup",
+          "settings": {
+            "text": "Dog Size Guide",
+            "page": "personalised-dog-collar-size-chart"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -50,6 +57,7 @@
       "block_order": [
         "vendor",
         "title",
+        "b1b33cdb-47a8-46d5-9567-246fb44b910f",
         "price",
         "variant_picker",
         "quantity_selector",
@@ -59,7 +67,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "cover",
         "gallery_layout": "thumbnail_slider",
@@ -82,6 +90,7 @@
         "columns_desktop": 4,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -90,90 +99,207 @@
         "padding_bottom": 28
       }
     },
-    "36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8": {
+    "400e775e-c795-453d-aa65-c91714fd6584": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20736765460794__400e775e-c795-453d-aa65-c91714fd6584-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11.png",
+            "title": "Satisfaction Guarantee",
+            "text": "<p>Enjoy complete peace of mind with our satisfaction guarantee. If you're not completely satisfied, we'll refund your purchase.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20736765460794__400e775e-c795-453d-aa65-c91714fd6584-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_7af57092-45ca-4e23-9430-8bc853e9112e.png",
+            "title": "Trusted by 2000+ Pet Parents",
+            "text": "<p>Join the community of over 2000+ Aussie pet parents who have transformed their dog walking experience with our comfortable and reliable harness.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "770f25c7-2a65-44ae-8a4b-1bcbcbf9de9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/18.png",
+            "title": "Fast Shipping",
+            "text": "<p>Experience fast and reliable shipping with our express delivery service. Get your products delivered to your dog harness in just 1-3 business days.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20736765460794__400e775e-c795-453d-aa65-c91714fd6584-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-08-22T171604.755.png",
+            "title": "Free Repairs",
+            "text": "<p>Join the circular movement. If for any reason you decide to stop using your dog harness. Return it for resale or send it in for free repair.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20736765460794__400e775e-c795-453d-aa65-c91714fd6584-column-1",
+        "template--20736765460794__400e775e-c795-453d-aa65-c91714fd6584-column-2",
+        "770f25c7-2a65-44ae-8a4b-1bcbcbf9de9b",
+        "template--20736765460794__400e775e-c795-453d-aa65-c91714fd6584-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d2208d8d-766d-4b77-b814-86e29b680f3c": {
+      "type": "multirow",
+      "blocks": {
+        "1b9f5859-7ad7-450f-b480-8d24feb39216": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/easy_to_wear.gif",
+            "caption": "",
+            "heading": "How to put on the harness",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20736765460794__d2208d8d-766d-4b77-b814-86e29b680f3c-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retractable_lead.gif",
+            "caption": "",
+            "heading": "Watch the retractable lead in action",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "41a1faa3-9519-46d4-b61d-bfc8cb05a29e": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/no_pulling.gif",
+            "caption": "",
+            "heading": "Smart auto lock",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20736765460794__d2208d8d-766d-4b77-b814-86e29b680f3c-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_to_measure.gif",
+            "caption": "",
+            "heading": "Unsure about size?",
+            "text": "",
+            "button_label": "Size guide",
+            "button_link": "shopify:\/\/pages\/personalised-dog-collar-size-chart"
+          }
+        }
+      },
+      "block_order": [
+        "1b9f5859-7ad7-450f-b480-8d24feb39216",
+        "template--20736765460794__d2208d8d-766d-4b77-b814-86e29b680f3c-row-3",
+        "41a1faa3-9519-46d4-b61d-bfc8cb05a29e",
+        "template--20736765460794__d2208d8d-766d-4b77-b814-86e29b680f3c-row-1"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ca6ab535-db7b-4e31-8d0c-63be2eed4d4d": {
       "type": "collapsible-content",
       "blocks": {
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-3": {
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What happens after my order?",
-            "icon": "check_mark",
-            "row_content": "<ul><li>After you have placed your order you will receive an automatically generated email confirming your order.<\/li><li>One of our graphic designers will then see the info you have specified on your order and prepare some artwork for your review<\/li><li>You will then have a chance to review your order and approve or request amendments (amendments are unlimited).<\/li><li>Once you have approved your artwork it will be sent to our production team.<\/li><li>Once production has been completed you will be emailed a notification that your order has been dispatched and you will be provided with your tracking number.<\/li><\/ul>",
+            "heading": "Can I lock the leash at certain lengths?",
+            "icon": "question_mark",
+            "row_content": "<p>Certainly! The Pawsy leash is 130cm long and comes with a safety feature that temporarily locks the leash when pulled quickly. This lock is not permanent; it automatically unlocks when the tension is released. As long as you maintain tension, it stays locked. Before using it with your pet, take some time to understand how this feature works to ensure a smooth walk.<\/p>",
             "page": ""
           }
         },
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-0": {
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How long does it take to artists to design & prepare a mockup?",
-            "icon": "check_mark",
-            "row_content": "<p>Allow 4-24 hours for our artists to prepare the mockup<\/p>",
+            "heading": "Is it strong enough for large breeds?",
+            "icon": "question_mark",
+            "row_content": "<p>Absolutely! Pawsy is safe for large dogs. The leash is made from sturdy nylon and has been rigorously tested for weight and restraint. It has been certified by an authorized testing lab. In fact, it's so strong that it can even pull a 1-ton truck.<\/p>",
             "page": ""
           }
         },
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-1": {
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How long does it take to receive the product?",
-            "icon": "check_mark",
-            "row_content": "<p>Please allow 24 hours for the artwork process. Once everything is approved, we will dispatch the order within 1 working day. It takes around 3-5 working days for your order to be delivered in Australia. We use Australia Post.<\/p>",
+            "heading": "Can I use it in salt water?",
+            "icon": "question_mark",
+            "row_content": "<p>Absolutely, Pawsy is designed to resist corrosion, including in salt water. After using it in the water, simply rinse with fresh water, let it drain, and allow it to air dry. Just be cautious about letting too much sand get into the leash, as it could affect the auto-stop feature.<\/p>",
             "page": ""
           }
         },
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-2": {
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you offer returns\/refunds?",
-            "icon": "check_mark",
-            "row_content": "<p>Absolutely. If you are not 100% happy with your product, you may return it to 433 Morphett St. Adelaide SA 5000. Once we receive the product at our warehouse, we will apply a refund to your account immediately.<\/p>",
+            "heading": "Where do you ship to?",
+            "icon": "question_mark",
+            "row_content": "<p>We currently service Australia, New Zealand, Singapore, UK and USA.<\/p>",
             "page": ""
           }
         },
-        "22ec9aa5-f246-4515-a7ab-9e80c53913e1": {
+        "07cb23e7-4792-4e8b-9b4f-65bd90c1d393": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you ship internationally",
-            "icon": "check_mark",
-            "row_content": "<p>Pawsy is very proud to be able to ship to over 30 countries worldwide. We offer both a standard and an express service. Our standard service averages delivery times between 5-12 business days and our express service averages 3-8 business days. <\/p><p>For international purchases no taxes will be charged. Please note international buyers are responsible for any customs duties, taxes, VAT, brokerage fees or tariffs levied after the initial Australian postage. These fees are separate from the cost of postage charged and vary by country.<\/p><p>Please check with your country’s customs office to determine what these additional costs will be prior to purchasing.<\/p>",
-            "page": ""
-          }
-        },
-        "3c6a0a51-2c8a-464a-8882-7155a565f799": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How much is delivery?",
-            "icon": "check_mark",
-            "row_content": "<p>Pawsy is very proud to offer FREE delivery within Australia and New Zealand on all orders greater than AU$100. Orders less than $100 incur a flat rate shipping cost of $16.95 (New Zealand). All orders are sent by registered NZ Post from our Sydney factory, with tracking included. Express post is available with estimates available in your shopping cart.<\/p>",
-            "page": ""
-          }
-        },
-        "50a8da8c-f850-41fb-86ac-aeb4f4f74dfc": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How does rush production work?",
-            "icon": "check_mark",
-            "row_content": "<p>For an additional charge you are able to purchase rush production, this will move you to the the top of the queue. For items where Rush Production is available we will attempt to have your order dispatched within 1 business day and will also send your parcel via express.<\/p><p>Rush production turn around times assume that artwork is approved within 1 business day of the order being received. Any delay in approving of artwork will result in a delay of the order being sent.<\/p><p>Please also note that delivery estimates, are only estimates and are impacted by several factors that are out of our control and therefore should not be treated as a guarantee. Our current on time delivery rate is 98.87%.<\/p>",
+            "heading": "Why do you ask for my dog's breed and name?",
+            "icon": "question_mark",
+            "row_content": "<p>This is so we can ensure you are choosing the correct size. If there is a mismatch in fitting, we will contact you before dispatching your order.<\/p><p><\/p><p>We ask for your dog's name so we can sew it onto your dog's pawsy harness.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-3",
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-0",
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-1",
-        "template--19378796659002__36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8-168585964096ed72d1-2",
-        "22ec9aa5-f246-4515-a7ab-9e80c53913e1",
-        "3c6a0a51-2c8a-464a-8882-7155a565f799",
-        "50a8da8c-f850-41fb-86ac-aeb4f4f74dfc"
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-1",
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-2",
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-3",
+        "template--20736765460794__ca6ab535-db7b-4e31-8d0c-63be2eed4d4d-collapsible_row-4",
+        "07cb23e7-4792-4e8b-9b4f-65bd90c1d393"
       ],
       "settings": {
         "caption": "",
-        "heading": "Frequently Asked Questions",
+        "heading": "FAQ",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
+        "color_scheme": "",
+        "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -185,6 +311,8 @@
   "order": [
     "main",
     "related-products",
-    "36b1fce7-aec5-400a-82b4-8a4f2f9bc9c8"
+    "400e775e-c795-453d-aa65-c91714fd6584",
+    "d2208d8d-766d-4b77-b814-86e29b680f3c",
+    "ca6ab535-db7b-4e31-8d0c-63be2eed4d4d"
   ]
 }

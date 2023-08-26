@@ -3511,3 +3511,13 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 }
+
+/* Custom CSS */
+.rte ul li {
+    list-style: none;
+}
+
+.rte ul li::before {
+  content: "✓ " !important;
+  color: #002f30 !important;
+}

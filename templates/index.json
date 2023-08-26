@@ -1,17 +1,273 @@
 {
   "sections": {
+    "e3aba235-51de-4b86-b8b1-28ac2f1724ce": {
+      "type": "image-banner-with-video",
+      "blocks": {
+        "template--20736765296954__e3aba235-51de-4b86-b8b1-28ac2f1724ce-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unleash true freedom with  Pawsy's Hybrid Harness",
+            "heading_size": "h1"
+          }
+        },
+        "template--20736765296954__e3aba235-51de-4b86-b8b1-28ac2f1724ce-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Introducing the world's first harness with a built-in retractable lead. Say goodbye to constant leashing and unleashing for good!",
+            "text_style": "body"
+          }
+        },
+        "eb2513e9-c8b4-401e-9b63-ef79deb4b48d": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Order now",
+            "button_link_1": "shopify:\/\/products\/pawsy-dog-harness-with-name",
+            "button_style_secondary_1": false,
+            "button_label_2": "Find Fit",
+            "button_link_2": "shopify:\/\/pages\/personalised-dog-collar-size-chart",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--20736765296954__e3aba235-51de-4b86-b8b1-28ac2f1724ce-heading-1",
+        "template--20736765296954__e3aba235-51de-4b86-b8b1-28ac2f1724ce-text-1",
+        "eb2513e9-c8b4-401e-9b63-ef79deb4b48d"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_desktop.png",
+        "video": "shopify:\/\/files\/videos\/pawsy.mp4",
+        "image_2": "shopify:\/\/shop_images\/Harness-2ndpostion-black02.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "5a2f777a-eaa9-40f8-89a7-781142ca0a80": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20736765296954__5a2f777a-eaa9-40f8-89a7-781142ca0a80-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The all-in-one dog harness is here",
+            "heading_size": "h1"
+          }
+        },
+        "template--20736765296954__5a2f777a-eaa9-40f8-89a7-781142ca0a80-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We designed the ultimate dog harness so you never have to find a leash ever again.<\/p>"
+          }
+        },
+        "template--20736765296954__5a2f777a-eaa9-40f8-89a7-781142ca0a80-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20736765296954__5a2f777a-eaa9-40f8-89a7-781142ca0a80-heading-1",
+        "template--20736765296954__5a2f777a-eaa9-40f8-89a7-781142ca0a80-text-1",
+        "template--20736765296954__5a2f777a-eaa9-40f8-89a7-781142ca0a80-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "67afb9be-2e7e-420c-bf43-1e3a43dea1a0": {
+      "type": "multirow",
+      "blocks": {
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retractable_lead.gif",
+            "caption": "",
+            "heading": "Never carry a leash again",
+            "text": "<p>Our goal is to make it easier for you to walk or drive your dog. The built-in leash means you can both enjoy the freedom of walking, running or roaming.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/pawsy-hybrid-harness™-with-retractable-dog-lead"
+          }
+        },
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Harness-2ndpostion-black02_-_Copy222.jpg",
+            "caption": "",
+            "heading": "Lasting comfort",
+            "text": "<p>Our harness is crafted with breathable padded lining and a specialised no-pull design, ensuring that your dog can comfortably wear it throughout the day, regardless of the weather, be it chilly or warm.<\/p>",
+            "button_label": "",
+            "button_link": "#"
+          }
+        },
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/black.png",
+            "caption": "",
+            "heading": "Durable design",
+            "text": "<p>Our hybrid harness lasts longer. No matter how much pulling, our leads are designed to last. In the long-run, this is better for the planet and better for your wallet.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/collections\/people"
+          }
+        },
+        "1c1c9e67-87ae-497b-a160-d35549b1c4d2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_6.png",
+            "caption": "",
+            "heading": "Personalise your harness",
+            "text": "<p>Add a unique name patch to each of our Pawsy harnesses, giving them a personal touch.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "22a15c0e-b5cf-43ce-a2d9-aaef27d26116": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A3df813d33d2248ccbef18d1869355fd2g.jpg",
+            "caption": "",
+            "heading": "Functional & easy",
+            "text": "<p>Pawsy is designed with quick-release buckles and adjustable straps, making it so easy to put on your dog with just one click.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "f5ddbd97-f4a5-4fe2-91de-13320c9a10ac": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Saf00c13b7aa94414828b4247e702d106W.webp",
+            "caption": "",
+            "heading": "Smart lock system",
+            "text": "<p>Our retractable lock system offers an added safety feature for times when you require more control. You can also effortlessly modify the length of your leash anytime.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ca5185e7-3660-48da-a98a-6768ac911ed0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/description-image-15_0ed1a5cf-e52c-447f-97d0-5da7465a15fd.jpg",
+            "caption": "",
+            "heading": "Keep your dog visible at night",
+            "text": "<p>At night, we got your dog covered. All parts of the harness feature our reflective material to ensure your dog is visible.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-2",
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-0",
+        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-1",
+        "1c1c9e67-87ae-497b-a160-d35549b1c4d2",
+        "22a15c0e-b5cf-43ce-a2d9-aaef27d26116",
+        "f5ddbd97-f4a5-4fe2-91de-13320c9a10ac",
+        "ca5185e7-3660-48da-a98a-6768ac911ed0"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "618bd17b-a403-499f-a87b-82a8cc0c19f1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20736765296954__618bd17b-a403-499f-a87b-82a8cc0c19f1-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_1000_x_200px.png",
+            "title": "\"The last harness my dog will ever need!\"",
+            "text": "<p>This harness is incredibly clever. I frequently unleash my dog during our beach walks and find it annoying when I have to carry the lead. This hybrid harness means my dog carries it for me! Now I can enjoy my coffee without it ever spilling again! <strong>- Sarah, Adelaide<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20736765296954__618bd17b-a403-499f-a87b-82a8cc0c19f1-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_1000_x_200px.png",
+            "title": "\"Just Perfect\"",
+            "text": "<p>Pawsy's Hybrid Harness is  a MUST HAVE for dog owners. It is SO convenient. The built in lead makes it a breeze for me to free or leash my doggo especially going in and out of a car. I especially love the retractable lead - super easy to use <strong>- Alex, Adelaide<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20736765296954__618bd17b-a403-499f-a87b-82a8cc0c19f1-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_1000_x_200px.png",
+            "title": "\"I don't need to look for a leash ever again!\"",
+            "text": "<p>I often struggle to remember where I left the leash, and clipping it onto my energetic boxer dog becomes quite a task, especially when she's overexcited. The attached lead is simply brilliant - <strong>Maryanna, Sydney<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20736765296954__618bd17b-a403-499f-a87b-82a8cc0c19f1-column-3",
+        "template--20736765296954__618bd17b-a403-499f-a87b-82a8cc0c19f1-column-1",
+        "template--20736765296954__618bd17b-a403-499f-a87b-82a8cc0c19f1-column-2"
+      ],
+      "settings": {
+        "title": "Trusted by 2000+ Aussie Pet Parents",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Unleash True Freedom with our 2-in-1 Harness and Retractable Leash",
+            "heading": "Order Your Pawsy Hybrid Harness Now",
             "heading_size": "h1"
           }
         },
         "4c874137-c3a6-46cb-9f8d-8a9940b48c24": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "text_style": "body"
@@ -19,6 +275,7 @@
         },
         "fd3def5b-e218-4903-8a33-76e116b73a65": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Order now",
             "button_link_1": "shopify:\/\/collections\/pawsy-hybrid-harness™-with-retractable-dog-lead",
@@ -36,129 +293,33 @@
       ],
       "custom_css": [],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-08-21T103957.396.png",
+        "image": "shopify:\/\/shop_images\/description-image-6_176a09a6-1819-470f-9aab-57debd576405.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "image_height": "small",
+        "desktop_content_position": "middle-right",
         "show_text_box": false,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "right",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7": {
-      "type": "rich-text",
-      "blocks": {
-        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "How it works",
-            "heading_size": "h1"
-          }
-        },
-        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-0",
-        "template--19378796298554__303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7-16857149791c1c371d-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "cd32f808-502c-4c9d-8227-9814c4553c7a": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-07-26T121124.182.png",
-            "title": "1. Choose your dog collar",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d1e08acb-a97a-468d-93fc-5a16e02c09d7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/13.png",
-            "title": "2. Add name & phone number",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/16.png",
-            "title": "3. Engraved & delivered in 48hrs",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-06-03T001055.288.png",
-            "title": "4. Wear & Enjoy",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-1",
-        "d1e08acb-a97a-468d-93fc-5a16e02c09d7",
-        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-0",
-        "template--19378796298554__cd32f808-502c-4c9d-8227-9814c4553c7a-1685709038783f743f-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "third",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 36
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "fc8fc238-f54d-4fe0-ba14-034fb10d86dc": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
-        "title": "Personalised Dog Collars",
+        "title": "Choose your favourite colour",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "personalised-dog-collars",
-        "products_to_show": 4,
-        "columns_desktop": 4,
+        "collection": "pawsy-hybrid-harness™-with-retractable-dog-lead",
+        "products_to_show": 3,
+        "columns_desktop": 3,
         "full_width": false,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -174,96 +335,286 @@
         "padding_bottom": 36
       }
     },
-    "67afb9be-2e7e-420c-bf43-1e3a43dea1a0": {
-      "type": "multirow",
+    "f7a11ab3-bcef-4f21-8c7f-80db7ea1a070": {
+      "type": "multicolumn",
       "blocks": {
-        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-2": {
-          "type": "row",
+        "template--20736765296954__f7a11ab3-bcef-4f21-8c7f-80db7ea1a070-column-1": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-26_115308.png",
-            "caption": "For Pets",
-            "heading": "The perfect gift for pets",
-            "text": "<p>From personalised engraved leather collars to feeding bowls, our collection of products are meticulously crafted and beautifully designed.<\/p>",
-            "button_label": "Browse Gifts for Pets",
-            "button_link": "shopify:\/\/collections\/pets"
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-08-22T144115.768.png",
+            "title": "1. Find the right fit",
+            "text": "<p>Use our breed guide, or measure for precise matching.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "ca5185e7-3660-48da-a98a-6768ac911ed0": {
-          "type": "row",
+        "template--20736765296954__f7a11ab3-bcef-4f21-8c7f-80db7ea1a070-column-2": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/512PQo-Y0rL._AC_UF894_1000_QL80.jpg",
-            "caption": "Features",
-            "heading": "Golden quick release buckle",
-            "text": "<p>An excellent choice for leather dog collars due to their blend of functionality, style, and durability. Easily clip them on and off.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/10_0106bd97-5948-4b09-a2de-2dbf149a0011.png",
+            "title": "2. Add your dog's name",
+            "text": "<p>Customise your harness with your dog's name.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-1": {
-          "type": "row",
-          "disabled": true,
+        "template--20736765296954__f7a11ab3-bcef-4f21-8c7f-80db7ea1a070-column-3": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2023-06-04T103849.879.png",
-            "caption": "For People",
-            "heading": "The perfect gift for pet lovers",
-            "text": "<p>Our artists will design a unique illustration of your pet. It's as easy as uploading a couple photos of your pooch.<\/p>",
-            "button_label": "Browse Gifts for People",
-            "button_link": "shopify:\/\/collections\/people"
+            "image": "shopify:\/\/shop_images\/8_7af57092-45ca-4e23-9430-8bc853e9112e.png",
+            "title": "3. Enjoy a safe and convenient adventure",
+            "text": "<p>Receive your order in 1-3 business days and get walking!<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-0": {
-          "type": "row",
-          "disabled": true,
+        "cd9c625f-7847-4a26-9b9e-c076a497f201": {
+          "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mockup-of-a-man-holding-a-box-with-wrapping-paper-and-a-sticker-m31348_1.png",
-            "caption": "",
-            "heading": "Sustainable Gift Packaging",
-            "text": "<p>We ensure that your gifts are beautifully presented while minimising our impact on the environment. <\/p>",
-            "button_label": "Learn more",
-            "button_link": "#"
-          }
-        },
-        "0f170528-4ab6-44b6-8245-856989e7856b": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/il_1080xN.2541522800_ixdr.webp",
-            "caption": "Features",
-            "heading": "100% genuine leather",
-            "text": "<p>Crafted from 100% genuine cowhide leather. These collars are not only environmentally friendly but also ensure maximum comfort for your furry companion. Say goodbye to irritation and discomfort, as our premium leather collars are designed with your dog's well-being in mind.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/11.png",
+            "title": "4. Satisfaction guarantee or your money back",
+            "text": "<p>Enjoy 365-Day Warranty on all products.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-2",
-        "ca5185e7-3660-48da-a98a-6768ac911ed0",
-        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-1",
-        "template--19378796298554__67afb9be-2e7e-420c-bf43-1e3a43dea1a0-168584203963326e9b-0",
-        "0f170528-4ab6-44b6-8245-856989e7856b"
+        "template--20736765296954__f7a11ab3-bcef-4f21-8c7f-80db7ea1a070-column-1",
+        "template--20736765296954__f7a11ab3-bcef-4f21-8c7f-80db7ea1a070-column-2",
+        "template--20736765296954__f7a11ab3-bcef-4f21-8c7f-80db7ea1a070-column-3",
+        "cd9c625f-7847-4a26-9b9e-c076a497f201"
       ],
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "title": "",
         "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "primary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-right",
-        "section_color_scheme": "background-1",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Order Pawsy Now",
+        "button_link": "shopify:\/\/products\/pawsy-dog-harness-with-name",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "93c373c8-2043-4a40-b0c1-c494417184fa": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Pawsy made from and how long will it last?",
+            "icon": "question_mark",
+            "row_content": "<p>Pawsy is crafted from high-quality materials, including safe, food-grade Elastomer. The leash tape is lightweight yet incredibly durable. We've extensively tested it in various conditions, like wet climates and sandy environments, and it's proven to be highly reliable. When properly cared for, a Pawsy can remain functional for years. Our commitment to sustainability means that if your product wears out, you can return it to us for a replacement at a 40% discounted rate.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I lock the leash at certain lengths?",
+            "icon": "question_mark",
+            "row_content": "<p>Certainly! The Pawsy leash is 130cm long and comes with a safety feature that temporarily locks the leash when pulled quickly. This lock is not permanent; it automatically unlocks when the tension is released. As long as you maintain tension, it stays locked. Before using it with your pet, take some time to understand how this feature works to ensure a smooth walk.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What size do I need?",
+            "icon": "question_mark",
+            "row_content": "<p>You'll find a size chart on the product page, offering 3 size options. It's best to choose a size based on your pet's body measurements rather than their weight. Measure the neck and chest before making a decision. If you need assistance with measuring your pet, our customer service team is here to help. Just reach out to us at <a href=\"mailto:hello@Pawsy.com.au\">hello@pawsy.com.au<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it strong enough for large breeds?",
+            "icon": "question_mark",
+            "row_content": "<p>Absolutely! Pawsy is safe for large dogs. The leash is made from sturdy nylon and has been rigorously tested for weight and restraint. It has been certified by an authorized testing lab. In fact, it's so strong that it can even pull a 1-ton truck.<\/p>",
+            "page": ""
+          }
+        },
+        "3d708f02-fa7b-46bf-b78b-9d25431b7375": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is the built-in leash heavy?",
+            "icon": "question_mark",
+            "row_content": "<p>No, the small size Pawsy harness weighs only 130g, which is about the weight of two eggs.<\/p>",
+            "page": ""
+          }
+        },
+        "15913332-03cc-445a-9011-3d268fb44c83": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Pawsy water-resistant?",
+            "icon": "question_mark",
+            "row_content": "<p>Indeed, Pawsy is designed to resist corrosion. Your dog can swim with the harness on, and while the cloth and nylon leash might get wet, they'll dry out easily in the air.<\/p>",
+            "page": ""
+          }
+        },
+        "7604293e-a8bd-4398-bce2-d8ae17a99443": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does it create a loud noise when the leash retracts?",
+            "icon": "question_mark",
+            "row_content": "<p>There's a faint noise when the leash winds and unwinds, but it's barely noticeable when you're walking outside. When the safety stop function activates, you might hear a 'click' sound from the harness. Your dog might be surprised at first, but they'll get accustomed to it quickly. Some use this sound as a training aid to discourage pulling.<\/p>",
+            "page": ""
+          }
+        },
+        "7f1da7d9-c83f-4aba-bdde-60ff97de289f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use it in salt water?",
+            "icon": "question_mark",
+            "row_content": "<p>Absolutely, Pawsy is designed to resist corrosion, including in salt water. After using it in the water, simply rinse with fresh water, let it drain, and allow it to air dry. Just be cautious about letting too much sand get into the leash, as it could affect the auto-stop feature.<\/p>",
+            "page": ""
+          }
+        },
+        "bf4b72f5-f6bf-42b1-b614-9b233730ddaa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where do you ship?",
+            "icon": "question_mark",
+            "row_content": "<p>We currently service Australia, New Zealand, Singapore, UK and USA.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-1",
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-2",
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-3",
+        "template--20736765296954__93c373c8-2043-4a40-b0c1-c494417184fa-collapsible_row-4",
+        "3d708f02-fa7b-46bf-b78b-9d25431b7375",
+        "15913332-03cc-445a-9011-3d268fb44c83",
+        "7604293e-a8bd-4398-bce2-d8ae17a99443",
+        "7f1da7d9-c83f-4aba-bdde-60ff97de289f",
+        "bf4b72f5-f6bf-42b1-b614-9b233730ddaa"
+      ],
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4f1c0c8e-322d-44df-a9a0-a21c4535d23f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20736765296954__4f1c0c8e-322d-44df-a9a0-a21c4535d23f-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-22_153754.png",
+            "title": "",
+            "text": "<p>#johnno<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20736765296954__4f1c0c8e-322d-44df-a9a0-a21c4535d23f-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-22_153519.png",
+            "title": "",
+            "text": "<p>#koda<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20736765296954__4f1c0c8e-322d-44df-a9a0-a21c4535d23f-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-22_153455.png",
+            "title": "",
+            "text": "<p>#charlie<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7ac45c7b-32ee-429b-9f8d-c870b20e7c05": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ae787c72daf9544efb8e4955b53a3f2a9j.webp",
+            "title": "",
+            "text": "<p>#buddy<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ed13cce7-2a41-4663-a330-88b0a037f3dc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ac38cb0774cab4f079ce1d0d1a69e5effg.webp",
+            "title": "",
+            "text": "<p>#lucy<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e15a981b-66c3-4b03-b8c2-129ac6155f44": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A3df813d33d2248ccbef18d1869355fd2g.jpg",
+            "title": "",
+            "text": "<p>#cooper<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20736765296954__4f1c0c8e-322d-44df-a9a0-a21c4535d23f-column-1",
+        "template--20736765296954__4f1c0c8e-322d-44df-a9a0-a21c4535d23f-column-2",
+        "template--20736765296954__4f1c0c8e-322d-44df-a9a0-a21c4535d23f-column-3",
+        "7ac45c7b-32ee-429b-9f8d-c870b20e7c05",
+        "ed13cce7-2a41-4663-a330-88b0a037f3dc",
+        "e15a981b-66c3-4b03-b8c2-129ac6155f44"
+      ],
+      "custom_css": [
+        "img.multicolumn-card__image{border-radius: 10px;"
+      ],
+      "settings": {
+        "title": "Follow us @pawsyofficial",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "e3aba235-51de-4b86-b8b1-28ac2f1724ce",
+    "5a2f777a-eaa9-40f8-89a7-781142ca0a80",
+    "67afb9be-2e7e-420c-bf43-1e3a43dea1a0",
+    "618bd17b-a403-499f-a87b-82a8cc0c19f1",
     "image_banner",
-    "303c5d50-b9c2-40ff-a99e-5b9ceb0b3fa7",
-    "cd32f808-502c-4c9d-8227-9814c4553c7a",
     "fc8fc238-f54d-4fe0-ba14-034fb10d86dc",
-    "67afb9be-2e7e-420c-bf43-1e3a43dea1a0"
+    "f7a11ab3-bcef-4f21-8c7f-80db7ea1a070",
+    "93c373c8-2043-4a40-b0c1-c494417184fa",
+    "4f1c0c8e-322d-44df-a9a0-a21c4535d23f"
   ]
 }
